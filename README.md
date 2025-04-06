@@ -4,8 +4,7 @@
 
 Um conversor simples e intuitivo para calcular valores entre Real Brasileiro e Dólar Americano usando a taxa de câmbio atual.
 
-🔗 **Link do Projeto:** [Acessar Conversor](https://seusite.com)  
-*(Substitua pelo link real do seu projeto quando estiver online)*
+🔗 **Link do Projeto:** [Acessar Conversor](https://henriluiz.github.io/conversor_web/)
 
 ## ✨ Funcionalidades
 
