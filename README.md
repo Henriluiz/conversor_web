@@ -22,3 +22,6 @@ Um conversor simples e intuitivo para calcular valores entre Real Brasileiro e D
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+---
+
+Feito com ❤️ por [Luiz Azevedo](https://github.com/Henriluiz).
