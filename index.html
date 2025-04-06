@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/index.css">
+  <script defer src="./js/inicial_1.js"></script>  <!-- Use defer para garantir que o script seja carregado após o HTML -->
+  <title>Conversor</title>
+</head>
+<body>
+  <img src="https://i.postimg.cc/GpCxYmvc/title.png" alt="Logo" class="logo">
+
+  <div class="container">
+    <div class="content">
+    <h2>Quem ganha, ganha em Doláres!</h2>
+    <p> Que tal converter esse valor?</p>
+    <button id="button_converter">Bora converter!</button>
+    <form id="form" method="get" onsubmit="conversor(event)">
+        <input required type="text" id="reais" name="reais" placeholder="Digite em Reais: R$">
+        <button type="submit" id="conferir">Conferir</button>
+    </form>
+    <div id="resultado" class="resultado"></div>
+    <button id="reload_button" class="close" style="display: none;" onclick="recarregarPagina()">Retorna</button> <!-- Botão para recarregar -->
+    </div>
+  </div>
+  <footer>Alura - Imersão DEV - 2025</footer>
+</body>
+</html>
+
