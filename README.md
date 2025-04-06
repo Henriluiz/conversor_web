@@ -8,9 +8,8 @@ Um conversor simples e intuitivo para calcular valores entre Real Brasileiro e D
 
 ## ✨ Funcionalidades
 
-- ✅ Conversão em tempo real (BRL para USD e USD para BRL)
+- ✅ Conversão em tempo real (BRL para USD)
 - ✅ Interface limpa e fácil de usar
-- ✅ Atualização automática de valores
 - ✅ Design responsivo (funciona em celulares e tablets)
 - ✅ Compatível com todos os navegadores modernos
 
